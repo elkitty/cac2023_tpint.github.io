@@ -1,5 +1,5 @@
 .bg-image-background {
-    background-image: url(img/ba3.jpg);
+background-image: url(/img/recoleta_floralis_facultad_1500x610.jpeg);
 background-repeat: no-repeat;
 background-size: cover;
 height: 70vh;
@@ -7,14 +7,10 @@ min-height: 600px;
 
 }
 .custom-content-align {
-    align-items: end;
+align-items: end;
 flex-direction: column;
 justify-content: flex-end;
-
 }
-
-
-
 
 .bd-placeholder-img {
     font-size: 1.125rem;
